@@ -72,7 +72,7 @@ footer{
     background-color:var(--corBackgroundSecundaria);
 }
 footer .container{
-    padding: 20px;
+    padding: 12x;
 }
 footer nav ul li a{
     color: white;
@@ -101,7 +101,7 @@ main .coluna{
 }
 main .coluna section{
     border-bottom: 1px solid #d4e9ff;
-    margin: 0 0 20px;
+    margin: 0 0 12px;
     color: var(--corTextoSecundaria);
     min-height: 185px;
 }
